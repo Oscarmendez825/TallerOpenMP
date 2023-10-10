@@ -37,3 +37,8 @@ A continuanción se presentan las especificaciones en las que se ejecutó el tal
 #### **Para daxpy_loop.c**
 - `chmod +x script_daxpy.sh`
 - `./script_daxpy.sh`
+
+## Link del repositorio
+
+[Link del repositorio](https://github.com/Oscarmendez825/TallerOpenMP.git)
+https://github.com/Oscarmendez825/TallerOpenMP.git
